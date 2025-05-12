@@ -1,0 +1,347 @@
+c
+o
+m
+o
+ Key.space 
+h
+a
+g
+o
+ Key.space 
+s
+i
+ Key.space 
+q
+u
+i
+e
+r
+o
+ Key.space 
+e
+n
+v
+i
+a
+r
+ Key.space 
+l
+ Key.backspace 
+e
+l
+ Key.space 
+c
+o
+n
+t
+e
+n
+d
+i
+o
+ Key.space 
+a
+ Key.backspace 
+d
+e
+ Key.space 
+a
+ Key.backspace 
+u
+n
+ Key.space 
+a
+r
+c
+h
+i
+v
+o
+ Key.space 
+a
+ Key.space 
+o
+t
+r
+a
+ Key.space 
+c
+o
+m
+p
+u
+t
+a
+d
+o
+r
+a
+ Key.space 
+u
+s
+a
+n
+d
+o
+ Key.space 
+p
+y
+t
+h
+o
+n
+ Key.enter 
+ Key.backspace 
+ Key.backspace 
+ Key.backspace 
+ Key.enter 
+ Key.ctrl_l 
+
+ Key.ctrl_l 
+
+ Key.ctrl_l 
+
+ Key.ctrl_l 
+ Key.ctrl_l 
+ Key.ctrl_l 
+ Key.ctrl_l 
+ Key.ctrl_l 
+ Key.ctrl_l 
+ Key.ctrl_l 
+ Key.ctrl_l 
+ Key.ctrl_l 
+ Key.ctrl_l 
+ Key.ctrl_l 
+ Key.ctrl_l 
+ Key.ctrl_l 
+ Key.ctrl_l 
+ Key.ctrl_l 
+ Key.ctrl_l 
+ Key.ctrl_l 
+ Key.ctrl_l 
+ Key.ctrl_l 
+ Key.ctrl_l 
+ Key.ctrl_l 
+ Key.ctrl_l 
+ Key.ctrl_l 
+ Key.ctrl_l 
+ Key.ctrl_l 
+ Key.ctrl_l 
+ Key.ctrl_l 
+ Key.enter 
+ Key.ctrl_l 
+
+ Key.ctrl_l 
+
+ Key.enter 
+ Key.ctrl_l 
+
+
+
+ Key.ctrl_l 
+ Key.ctrl_l 
+
+ Key.ctrl_l 
+
+ Key.ctrl_l 
+
+ Key.backspace 
+e
+x
+p
+l
+i
+c
+a
+m
+e
+ Key.space 
+a
+ Key.space 
+f
+o
+n
+o
+f
+ Key.space 
+ Key.backspace 
+ Key.backspace 
+ Key.backspace 
+f
+o
+ Key.backspace 
+ Key.backspace 
+d
+o
+ Key.space 
+q
+u
+e
+ Key.space 
+p
+a
+s
+a
+ Key.space 
+e
+n
+ Key.space 
+c
+a
+d
+a
+ Key.space 
+a
+r
+c
+h
+i
+v
+o
+ Key.enter 
+ Key.ctrl_l 
+
+ Key.ctrl_l 
+
+ Key.backspace 
+ Key.backspace 
+ Key.ctrl_l 
+
+ Key.ctrl_l 
+
+ Key.ctrl_l 
+
+ Key.ctrl_l 
+
+
+ Key.ctrl_l 
+
+ Key.ctrl_l 
+
+ Key.space 
+y
+ Key.space 
+ Key.backspace 
+ Key.backspace 
+ Key.space 
+y
+ Key.space 
+a
+c
+a
+ Key.space 
+c
+o
+m
+o
+ Key.space 
+s
+e
+r
+i
+a
+ Key.enter 
+p
+a
+r
+a
+ Key.space 
+q
+u
+e
+ Key.space 
+s
+e
+ Key.space 
+u
+s
+a
+ Key.space 
+e
+s
+e
+ Key.space 
+t
+h
+e
+a
+ Key.backspace 
+ Key.backspace 
+r
+e
+a
+d
+i
+n
+g
+ Key.enter 
+ Key.ctrl_l 
+
+ Key.backspace 
+ Key.backspace 
+ Key.backspace 
+ Key.backspace 
+ Key.backspace 
+4
+ Key.backspace 
+ Key.backspace 
+ Key.backspace 
+ Key.backspace 
+ Key.ctrl_l 
+
+c
+m
+d
+i
+p
+c
+o
+n
+g
+i
+ Key.backspace 
+ Key.backspace 
+f
+i
+g
+ Key.enter 
+ Key.ctrl_l 
+
+ Key.ctrl_l 
+
+
+ Key.ctrl_l 
+None
+p
+i
+p
+ Key.ctrl_l 
+
+ Key.ctrl_l 
+
+ Key.left 
+ Key.right 
+ Key.up 
+ Key.left 
+ Key.down 
+ Key.right 
+ Key.left 
+ Key.down 
+ Key.up 
+ Key.right 
+ Key.up 
+ Key.left 
+ Key.down 
+ Key.right 
+ Key.left 
+ Key.down 
+ Key.right 
+ Key.up 
+ Key.left 
+ Key.right 
+ Key.down 
+ Key.left 
+ Key.right 
+ Key.left 
+ Key.up 
+ Key.left 
